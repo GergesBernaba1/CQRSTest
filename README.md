@@ -1,2 +1,2 @@
 # CQRSTest
-CQRS ( Command and Query Responsibility Segregation )
+ Example console Project - CQRS ( Command and Query Responsibility Segregation )
